@@ -1,0 +1,30 @@
+.header-box {
+  display: flex;
+  padding: 1rem;
+  background-color: aqua;
+}
+
+.ngo-name {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 32px;
+  align-self: center;
+  color: seagreen;
+  margin: 0px 20px;
+  position: relative;
+  font-weight: bold;
+}
+img {
+  margin: 10px;
+  width: 180px;
+  align-self: center;
+  height: 60px;
+}
+.toll-free-number {
+  float: right;
+  display: solid;
+  align-self: center;
+  margin-left: 350px;
+  font-size: 20px;
+  color: blue;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}

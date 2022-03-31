@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "default": "mern-stack-demo",
+    "dev": "mern-stack-demo"
+  },
+  "targets": {}
+}
